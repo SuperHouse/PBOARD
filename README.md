@@ -2,6 +2,9 @@ Power Breakout Board
 ==========================
 Copyright 2018 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
+A simple power distribution board using 2.1mm DC sockets. Designed to
+fit into a OODTY sized project box.
+
   http://www.superhouse.tv/pboard
 
 
