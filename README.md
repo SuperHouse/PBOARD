@@ -1,8 +1,8 @@
 Power Breakout Board
 ==========================
-Copyright 2018 Freetronics Pty Ltd  www.freetronics.com  
+Copyright 2018 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
-  http://www.freetronics.com.au/pboard
+  http://www.superhouse.tv/pboard
 
 
 INSTALLATION
@@ -29,4 +29,4 @@ this license in plain text format.
 
 CREDITS
 -------
-Designed by Jonathan Oxer (jon@freetronics.com)
+Designed by Jonathan Oxer (jon@oxer.com.au)
